@@ -1,0 +1,3 @@
+# Project exclude paths
+/rabbitmq_day1/target/
+/rabbitmq_springboot/target/
